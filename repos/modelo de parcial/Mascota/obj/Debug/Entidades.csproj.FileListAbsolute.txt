@@ -1,0 +1,6 @@
+C:\Users\nahue\source\repos\modelo de parcial\Mascota\bin\Debug\Mascota.dll
+C:\Users\nahue\source\repos\modelo de parcial\Mascota\bin\Debug\Mascota.pdb
+C:\Users\nahue\source\repos\modelo de parcial\Mascota\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\nahue\source\repos\modelo de parcial\Mascota\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\modelo de parcial\Mascota\obj\Debug\Mascota.dll
+C:\Users\nahue\source\repos\modelo de parcial\Mascota\obj\Debug\Mascota.pdb

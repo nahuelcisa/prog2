@@ -1,0 +1,7 @@
+C:\Users\nahue\source\repos\Cisa.Nahuel\EjercicioClase02-ClaseSello\obj\Debug\EjercicioClase02-ClaseSello.csprojAssemblyReference.cache
+C:\Users\nahue\source\repos\Cisa.Nahuel\EjercicioClase02-ClaseSello\obj\Debug\EjercicioClase02-ClaseSello.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\Cisa.Nahuel\EjercicioClase02-ClaseSello\bin\Debug\EjercicioClase02-ClaseSello.exe.config
+C:\Users\nahue\source\repos\Cisa.Nahuel\EjercicioClase02-ClaseSello\bin\Debug\EjercicioClase02-ClaseSello.exe
+C:\Users\nahue\source\repos\Cisa.Nahuel\EjercicioClase02-ClaseSello\bin\Debug\EjercicioClase02-ClaseSello.pdb
+C:\Users\nahue\source\repos\Cisa.Nahuel\EjercicioClase02-ClaseSello\obj\Debug\EjercicioClase02-ClaseSello.exe
+C:\Users\nahue\source\repos\Cisa.Nahuel\EjercicioClase02-ClaseSello\obj\Debug\EjercicioClase02-ClaseSello.pdb

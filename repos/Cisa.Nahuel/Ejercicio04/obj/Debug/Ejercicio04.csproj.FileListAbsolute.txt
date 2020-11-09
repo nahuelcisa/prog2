@@ -1,0 +1,7 @@
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio04\bin\Debug\Ejercicio04.exe
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio04\bin\Debug\Ejercicio04.pdb
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio04\obj\Debug\Ejercicio04.csprojAssemblyReference.cache
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio04\obj\Debug\Ejercicio04.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio04\obj\Debug\Ejercicio04.exe
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio04\obj\Debug\Ejercicio04.pdb

@@ -1,0 +1,6 @@
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio06\obj\Debug\Ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio06\bin\Debug\Ejercicio06.exe.config
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio06\bin\Debug\Ejercicio06.exe
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio06\bin\Debug\Ejercicio06.pdb
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio06\obj\Debug\Ejercicio06.exe
+C:\Users\nahue\source\repos\Cisa.Nahuel\Ejercicio06\obj\Debug\Ejercicio06.pdb

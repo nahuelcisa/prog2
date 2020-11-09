@@ -1,0 +1,12 @@
+C:\Users\balde\source\repos\Balderrama.Jhossymar\Integrador\bin\Debug\Integrador.dll
+C:\Users\balde\source\repos\Balderrama.Jhossymar\Integrador\bin\Debug\Integrador.pdb
+C:\Users\balde\source\repos\Balderrama.Jhossymar\Integrador\obj\Debug\Integrador.csprojAssemblyReference.cache
+C:\Users\balde\source\repos\Balderrama.Jhossymar\Integrador\obj\Debug\Integrador.csproj.CoreCompileInputs.cache
+C:\Users\balde\source\repos\Balderrama.Jhossymar\Integrador\obj\Debug\Integrador.dll
+C:\Users\balde\source\repos\Balderrama.Jhossymar\Integrador\obj\Debug\Integrador.pdb
+C:\Users\nahue\Desktop\Integrador\bin\Debug\Integrador.dll
+C:\Users\nahue\Desktop\Integrador\bin\Debug\Integrador.pdb
+C:\Users\nahue\Desktop\Integrador\obj\Debug\Integrador.csprojAssemblyReference.cache
+C:\Users\nahue\Desktop\Integrador\obj\Debug\Integrador.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Desktop\Integrador\obj\Debug\Integrador.dll
+C:\Users\nahue\Desktop\Integrador\obj\Debug\Integrador.pdb
