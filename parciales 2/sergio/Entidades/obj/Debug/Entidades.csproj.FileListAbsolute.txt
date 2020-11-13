@@ -1,0 +1,12 @@
+C:\Users\serdo\Desktop\SP.LabII.2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\serdo\Desktop\SP.LabII.2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\serdo\Desktop\SP.LabII.2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\serdo\Desktop\SP.LabII.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\serdo\Desktop\SP.LabII.2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\serdo\Desktop\SP.LabII.2020\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nahue\Desktop\parciales 2\sergio\Entidades\bin\Debug\Entidades.dll
+C:\Users\nahue\Desktop\parciales 2\sergio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nahue\Desktop\parciales 2\sergio\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\nahue\Desktop\parciales 2\sergio\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Desktop\parciales 2\sergio\Entidades\obj\Debug\Entidades.dll
+C:\Users\nahue\Desktop\parciales 2\sergio\Entidades\obj\Debug\Entidades.pdb
